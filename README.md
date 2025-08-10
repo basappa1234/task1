@@ -31,18 +31,4 @@
 - Use IQR method
 - Apply capping for Age and Fare
 
-## Final Features Used
-Numerical:
-- Age (scaled)
-- Fare (log-transformed, scaled)
-- Pclass
-- SibSp
-- Parch
 
-Categorical:
-- Sex_male
-- Embarked_Q
-- Embarked_S
-
-Target:
-- Survived (0/1)
